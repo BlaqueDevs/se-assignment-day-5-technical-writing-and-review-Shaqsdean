@@ -22,9 +22,26 @@ Observing Non-Verbal Cues
 Test for Understanding
 
 ## 4. What techniques can you use to ensure your content is accessible to those with limited technical knowledge?
+Using Clear and Simple Language
+Provide Clear Structure and Formatting
+Using Visual Aids and Examples
+Ensuring Easy Navigation
+Offering Clear Instructions - such as a Step-by-step guide on the project
+
 ## 5. Why is it important to use plain language instead of technical jargon in your writing?
+Clarity: Plain language helps ensure that your message is clear and easy to understand.
+Engagement: Readers are more likely to stay engaged with your writing if they can easily understand the content.
+Efficient Communication: Plain language allows you to convey your ideas in a more direct and efficient way.
+Broader Reach: If the goal is to communicate with a wide audience, using plain language ensures that your message can reach as many people as possible
+When you use plain language, you build trust with your audience by showing transparency and a willingness to communicate clearly.
+
 ## 6. Can you provide examples of how simplifying terms (e.g., "start" instead of "initiate") improves comprehension?
+ "Buy" vs. "Purchase" - Buy is a straight foward and known word
+  "End" vs. "Terminate" - End is a commonly used word while terminate is a more complex word
+  "Help" vs. "Assist" - Help is widely known than assist
+  
 ## 7. How can using examples and visuals help in explaining complex concepts more clearly?
+
 ## 8. What types of visuals (e.g., diagrams, charts) are most effective for different kinds of technical information?
 ## 9. How do headings and subheadings improve the readability and organization of technical documents?
 ## 10. What are some best practices for creating effective headings and subheadings?
