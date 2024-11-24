@@ -68,4 +68,13 @@ Keep headings and subheadings consistent in terms of grammatical structure.
  Use Numbers for Lists or Steps
  
 ## 11. What should be included in the introduction of a Readme to immediately inform users about what the product does?
+Product Name
+Core Features or Functionality
+Purpose/Problem Solved
+Target Audience
+Technologies Used
+
 ## 12. How can you succinctly convey the purpose and key features of a product?
+explaining the purpose of the project
+type in the key features of the project
+Give a preposition value
